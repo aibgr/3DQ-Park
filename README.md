@@ -32,8 +32,7 @@ One single equation → Parallel parking (both sides), perpendicular, angled, an
 </table>
 
 <p align="center">
-  <em>Top-left: Training convergence  Top-right: Left-side parking<br>
-  Bottom-left: Right-side parking  Bottom-right: Full autonomous sequence</em>
+  <em>*</em>
 </p>
 
 ### Coming Soon
