@@ -1,5 +1,5 @@
 # 3DQ-Park  
-**A Unified Trigonometric Kinematic Model + Guided 3D Q-Learning Framework**  
+**A Unified Kinematic Model + Guided 3D Q-Learning Framework**  
 One single equation → Parallel parking (both sides), perpendicular, angled, and overtaking
 
 [![GitHub stars](https://img.shields.io/github/stars/aibgr/3DQ-Park?style=social)](https://github.com/aibgr/3DQ-Park/stargazers)
