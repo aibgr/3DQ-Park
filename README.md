@@ -42,7 +42,7 @@ One single equation → Parallel parking (both sides), perpendicular, angled, an
 
 ### Author
 **Ali Bagheri**  
-B.Sc. Mechanical Engineering & Computer Engineering (Minor) – Iran University of Science and Technology, 2025  
+B.Sc. Mechanical Engineering & Computer Engineering – Iran University of Science and Technology, 2025  
 Email: AliBagheri79.ab@gmail.com | GitHub: [@aibgr](https://github.com/aibgr)  
 LinkedIn: [ali-bagheri](https://www.linkedin.com/in/ali-bagheri-)  
 
