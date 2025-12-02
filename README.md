@@ -44,7 +44,7 @@ One single equation → Parallel parking (both sides), perpendicular, angled, an
 **Ali Bagheri**  
 B.Sc. Mechanical Engineering & Computer Engineering – Iran University of Science and Technology, 2025  
 Email: AliBagheri79.ab@gmail.com | GitHub: [@aibgr](https://github.com/aibgr)  
-LinkedIn: [ali-bagheri](https://www.linkedin.com/in/ali-bagheri-)  
+LinkedIn: [Ali-Bagheri](https://www.linkedin.com/in/aibgr)  
 
 **Supervisor:** Dr. Hassan Zabihi – Iran University of Science and Technology
 
