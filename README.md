@@ -6,7 +6,7 @@ One single equation →  Parking (Parallel (both sides), perpendicular, angled) 
 [![IEEE T-IV](https://img.shields.io/badge/IEEE%20T--IV-Submitted%20Nov%202025-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 [![Webots 2023](https://img.shields.io/badge/Simulated-Webots%202023-orange)](https://cyberbotics.com)
 
-> First paper of the **3DQ Series** submitted to **IEEE Transactions on Intelligent Vehicles** – November 2025  
+> First paper of the **3DQ Series** submitted to **IEEE Transactions on Intelligent Vehicles** – 2025  
 > First-round decision expected: December 2025 – January 2026  
 > Full source code will be released immediately upon acceptance of all 3DQ Series.
 
